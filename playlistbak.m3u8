@@ -1,0 +1,6 @@
+﻿#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1310435,CODECS="avc1.77.32,mp4a.40.2",RESOLUTION=854x480
+#EXTINF:0,group,test
+avi,Rick Astley - Never Gonna Give You Up (Video),
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
